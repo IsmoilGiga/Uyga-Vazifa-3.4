@@ -1,0 +1,29 @@
+.my-container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.intro {
+    height: 600px;
+    background-image: url('./images/intro.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.intro .my-container {
+    height: 100%;
+}
+
+.intro .my-container h1 {
+    margin-bottom: 30px;
+}
+
+.intro .my-container p {
+    margin-bottom: 50px;
+}
+
+.h1{
+    margin-left: 700px;
+}
