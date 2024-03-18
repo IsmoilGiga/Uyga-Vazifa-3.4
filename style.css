@@ -16,8 +16,9 @@
     height: 100%;
 }
 
-.intro .my-container h1 {
+.about .my-container h2 {
     margin-bottom: 30px;
+    margin-left: 500px;
 }
 
 .intro .my-container p {
